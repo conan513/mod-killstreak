@@ -2,4 +2,4 @@
 
 # Killstreak System module for AzerothCore.
 
-Killstreak System shows players killstreaks(5,10,15...) in chat window.
+Killstreak System show players killstreak(5,10,15...) in chat window.
